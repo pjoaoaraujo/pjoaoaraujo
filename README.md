@@ -1,4 +1,4 @@
-# Seja Bem vindo ao meu Github! 👋
+# Seja Bem-vindo ao meu Github! 👋
 
 <ul>
   <li>🎓 Ciência da Computação</li>
