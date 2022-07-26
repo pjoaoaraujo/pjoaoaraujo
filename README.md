@@ -2,7 +2,6 @@
 
 <ul>
   <li>🎓 Ciência da Computação</li>
-  <li>📚 Data Science</li>
   <li>💡 Desenvolvedor Full Stack</li>
 </ul>
 
