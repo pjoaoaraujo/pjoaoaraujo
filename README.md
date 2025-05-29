@@ -1,20 +1,34 @@
-# Seja Bem-vindo ao meu Github! 👋
+# 👋 Seja bem-vindo(a) ao meu GitHub!
+
+Aqui você encontra projetos, ideias e experimentos criados com paixão por tecnologia e desenvolvimento de soluções eficientes. Meu foco é construir sistemas robustos e inteligentes para o mundo real. 🚀
+
+---
+
+## 👨‍💻 Sobre mim
 
 <ul>
-  <li>🎓 Ciência da Computação</li>
   <li>💡 Desenvolvedor Full Stack</li>
+  <li>🛠️ Apaixonado por transformar código em soluções reais</li>
+  <li>🌐 Atuo com tecnologias modernas e escaláveis</li>
 </ul>
 
-# Tecnologias
+---
 
-![Wordpress Badge](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)
-![Js Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=222)
-![Html 5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
-![Vue badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=FFF)
-![Laravel badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFF&)
+## 🧰 Tecnologias e Ferramentas
 
-# Contato
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-p-araujo/
-)](https://www.linkedin.com/in/joao-p-araujo)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Angular.js](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+---
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-p-araujo/)
+
+---
+
+> 💬 "Software bem feito é aquele que você quase esquece que existe, porque simplesmente funciona."
+
